@@ -3,7 +3,7 @@
   <b>Engineering Team Lead @ OLX Lebanon</b> · Software &amp; Product Engineer
 </p>
 <p align="center">
-  Architecting scalable systems and infrastructure — now going deep on data, ML &amp; AI engineering.
+  Architecting scalable systems and infrastructure — and sharpening my data, ML &amp; AI engineering along the way.
 </p>
 <p align="center">
   <a href="https://hassanzeaiter.com"><img src="https://img.shields.io/badge/Portfolio-hassanzeaiter.com-e2472f?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
@@ -19,7 +19,7 @@
 - Self-taught engineer building for the web **since 2011** — freelance → company roles → co-founded a dev studio through Lebanon's economic crisis → back to full-time since 2023.
 - What I actually do is **architecture**: product, system and infrastructure design, multi-tenant SaaS, and search at scale with Elasticsearch.
 - Polyglot by necessity — **PHP/Laravel, Go, Python, TypeScript/Node, React & React Native**.
-- Currently going deep on **data engineering, ML and AI engineering** — pipelines, analytics, and LLM-powered features that earn their place in a product.
+- Architecture stays the core of what I do — alongside it I'm **actively learning data, ML and AI engineering**: pipelines, analytics, and LLM-powered features that earn their place in a product.
 - Ask me about **system architecture, scaling marketplaces, multi-tenancy, Elasticsearch, and leading engineering teams**.
 
 > Currently focused full-time at OLX Lebanon and **not taking on side projects or freelance work**.
