@@ -6,9 +6,9 @@
   Architecting scalable systems and infrastructure — now going deep on data, ML &amp; AI engineering.
 </p>
 <p align="center">
-  <a href="https://hassanzeaiter.com"><b>hassanzeaiter.com</b></a> ·
-  <a href="https://linkedin.com/in/hassanzeaiter">LinkedIn</a> ·
-  <a href="https://x.com/hassanzeaiter">X</a>
+  <a href="https://hassanzeaiter.com"><img src="https://img.shields.io/badge/Portfolio-hassanzeaiter.com-e2472f?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/hassanzeaiter"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/hassanzeaiter"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
 </p>
 
 ---
