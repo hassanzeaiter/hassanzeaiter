@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hassan Zeaiter 👋</h1>
+<h1 align="center">Hassan Zeaiter</h1>
 <p align="center">
   <b>Engineering Team Lead @ OLX Lebanon</b> · Software &amp; Product Engineer
 </p>
@@ -6,25 +6,25 @@
   Architecting scalable systems and infrastructure — now going deep on data, ML &amp; AI engineering.
 </p>
 <p align="center">
-  <a href="https://hassanzeaiter.com"><img src="https://img.shields.io/badge/Portfolio-hassanzeaiter.com-e2472f?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/hassanzeaiter"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/hassanzeaiter"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://hassanzeaiter.com"><b>hassanzeaiter.com</b></a> ·
+  <a href="https://linkedin.com/in/hassanzeaiter">LinkedIn</a> ·
+  <a href="https://x.com/hassanzeaiter">X</a>
 </p>
 
 ---
 
-## 💫 About Me
+## About
 
-- 🧭 I **lead the engineering team at OLX Lebanon**, spearheading an end-to-end architectural rebuild of the platform.
-- 🏗️ Self-taught engineer building for the web **since 2011** — freelance → company roles → co-founded a dev studio through Lebanon's economic crisis → back to full-time since 2023.
-- 🧩 What I actually do is **architecture**: product, system and infrastructure design, multi-tenant SaaS, and search at scale with Elasticsearch.
-- 🔤 Polyglot by necessity — **PHP/Laravel, Go, Python, TypeScript/Node, React & React Native**.
-- 🌱 Currently going deep on **data engineering, ML and AI engineering** — pipelines, analytics, and LLM-powered features that earn their place in a product.
-- 💬 Ask me about **system architecture, scaling marketplaces, multi-tenancy, Elasticsearch, and leading engineering teams**.
+- I **lead the engineering team at OLX Lebanon**, spearheading an end-to-end architectural rebuild of the platform.
+- Self-taught engineer building for the web **since 2011** — freelance → company roles → co-founded a dev studio through Lebanon's economic crisis → back to full-time since 2023.
+- What I actually do is **architecture**: product, system and infrastructure design, multi-tenant SaaS, and search at scale with Elasticsearch.
+- Polyglot by necessity — **PHP/Laravel, Go, Python, TypeScript/Node, React & React Native**.
+- Currently going deep on **data engineering, ML and AI engineering** — pipelines, analytics, and LLM-powered features that earn their place in a product.
+- Ask me about **system architecture, scaling marketplaces, multi-tenancy, Elasticsearch, and leading engineering teams**.
 
-> 📌 Currently focused full-time at OLX Lebanon and **not taking on side projects or freelance work**.
+> Currently focused full-time at OLX Lebanon and **not taking on side projects or freelance work**.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Architecture** — Product & system design, infrastructure architecture, microservices, multi-tenancy, distributed systems
 - **Languages** — PHP, Go, Python, TypeScript, JavaScript, SQL
@@ -33,7 +33,7 @@
 - **Infra & DevOps** — Docker, Terraform, Cloudflare, Nginx, GitHub Actions, GitLab CI
 - **Data & AI** — Data engineering, pipelines & dbt, ML / AI engineering, LLMs & agents, analytics / BI
 
-## 📊 By The Numbers
+## By The Numbers
 
 - **12,300+** contributions since December 2012
 - **1,373** active days · longest streak **76 days**
@@ -47,6 +47,6 @@ included — is visualised as generative art in
 ---
 
 <p align="center">
-  🗞️ <b><a href="https://hassanzeaiter.com">hassanzeaiter.com</a></b> — a retro print/zine portfolio,<br/>
+  <b><a href="https://hassanzeaiter.com">hassanzeaiter.com</a></b> — a retro print/zine portfolio,<br/>
   featuring <a href="https://hassanzeaiter.com/history">The Commit Chronicle</a>: 13 years of my GitHub history rendered as generative art.
 </p>
