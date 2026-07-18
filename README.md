@@ -33,12 +33,16 @@
 - **Infra & DevOps** — Docker, Terraform, Cloudflare, Nginx, GitHub Actions, GitLab CI
 - **Data & AI** — Data engineering, pipelines & dbt, ML / AI engineering, LLMs & agents, analytics / BI
 
-## 📊 GitHub Stats
+## 📊 By The Numbers
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassanzeaiter&show_icons=true&theme=gruvbox&hide_border=true" alt="Hassan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanzeaiter&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" />
-</p>
+- **12,300+** contributions since December 2012
+- **1,373** active days · longest streak **76 days**
+- Busiest year: **2022** (3,217 contributions)
+
+Most of my work lives in **private and organisation repos**, so GitHub's public
+counters don't tell the story. The full picture — private contributions
+included — is visualised as generative art in
+**[The Commit Chronicle](https://hassanzeaiter.com/history)**.
 
 ---
 
